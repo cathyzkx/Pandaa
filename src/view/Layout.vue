@@ -41,15 +41,16 @@ export default {
   }
 
   .el-main {
-    background-color: #E9EEF3;
+    background-color: #ffffff;
     color: #333;
     text-align: center;
-    line-height: 860px;
+    height: 900px;
+    align: middle;
+    padding:0px;
   }
 
   body > .el-container {
     margin-bottom: 40px;
-    margin-left: 0px;
   }
 
   .el-container:nth-child(5) .el-aside,
